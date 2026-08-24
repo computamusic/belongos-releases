@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BelongOS</title>
+    <link>https://github.com/computamusic/belongos-releases/releases/latest/download/appcast.xml</link>
+    <description>Updates for the BelongOS Mac app.</description>
+    <language>en</language>
+  </channel>
+</rss>
