@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.3</title>
+      <pubDate>Mon, 24 Aug 2026 21:13:45 +0000</pubDate>
+      <sparkle:version>202608241712</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Test release, cut to prove that an installed 1.0.2 can find and install an update on its own.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.3/BelongOS-1.0.3.dmg" length="2908566" type="application/octet-stream" sparkle:edSignature="dlKrLMw9nKmsKGUXpUIaXOOjy76t4XiItfz/ZjqZOc4dY9KFyjRLMQoTFg38mMZVTOwvMZ+MxJ7MGYfaKi0pDw==" />
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>Mon, 24 Aug 2026 21:11:47 +0000</pubDate>
       <sparkle:version>202608241710</sparkle:version>
