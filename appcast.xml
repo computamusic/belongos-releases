@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.4</title>
+      <pubDate>Mon, 24 Aug 2026 21:18:01 +0000</pubDate>
+      <sparkle:version>202608241715</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Notarization now covers the app bundle itself, so a freshly updated copy launches without needing to reach Apple.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.4/BelongOS-1.0.4.dmg" length="2910213" type="application/octet-stream" sparkle:edSignature="UlXvYiHLC3OtrxuodzEHXa2ulmL35mtw3klMksQXJDeX5ccQjJy9dwX45/RLS4VpUKUT+Izyuxp4iTXBFMpiAA==" />
+    </item>
+    <item>
       <title>1.0.3</title>
       <pubDate>Mon, 24 Aug 2026 21:13:45 +0000</pubDate>
       <sparkle:version>202608241712</sparkle:version>
