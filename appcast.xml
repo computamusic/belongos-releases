@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>BelongOS</title>
     <link>https://github.com/computamusic/belongos-releases/releases/latest/download/appcast.xml</link>
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
+    <item>
+      <title>1.0.2</title>
+      <pubDate>Mon, 24 Aug 2026 21:11:47 +0000</pubDate>
+      <sparkle:version>202608241710</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Adds automatic updates. This build can update itself; earlier ones cannot, so this is the last time you need to download BelongOS by hand.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.2/BelongOS-1.0.2.dmg" length="2908621" type="application/octet-stream" sparkle:edSignature="d26fgyMFKU1mu1m4L8cLz//Cx9jpHTKgBYPBOm3s9p5O63imecr6cNIIG0PUnXBPXJ9GLdsscMVzwBDQ7ijuAA==" />
+    </item>
   </channel>
 </rss>
