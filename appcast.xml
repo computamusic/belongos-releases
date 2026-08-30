@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.7</title>
+      <pubDate>Sun, 30 Aug 2026 04:44:21 +0000</pubDate>
+      <sparkle:version>202608300042</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Financials and Setup now have their sub-views: Expenses, Bank Inbox, Payroll and Projections; Team, Products, Series, Playbooks, SOPs and Metrics. Several of these had no way into the Mac app before.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.7/BelongOS-1.0.7.dmg" length="3283087" type="application/octet-stream" sparkle:edSignature="nvBeLpP7DSVe5YxJzCVxRIirSMWBiy/0C8zSL9Wdt76zG4NztizCl+jHicgGSorY+tCkV1ATIzIhHNhf9GROAg==" />
+    </item>
+    <item>
       <title>1.0.6</title>
       <pubDate>Sun, 30 Aug 2026 04:30:35 +0000</pubDate>
       <sparkle:version>202608300028</sparkle:version>
