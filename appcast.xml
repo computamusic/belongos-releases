@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.9</title>
+      <pubDate>Sun, 30 Aug 2026 05:43:29 +0000</pubDate>
+      <sparkle:version>202608300141</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Today is a two-column dashboard now, with your tasks and anything needing attention beside it. Cards fill the window instead of huddling on the left, screen titles are readable, and the Financials spend chart actually draws its bars.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.9/BelongOS-1.0.9.dmg" length="3308817" type="application/octet-stream" sparkle:edSignature="Ntf4tWjDANETWO0MIvfit6PlsTWPCccgIIo6axzBn0peastdVyk+Ss5B4Hk8CtBrA95W6r0ZGd1o6pxAdYxIDQ==" />
+    </item>
+    <item>
       <title>1.0.8</title>
       <pubDate>Sun, 30 Aug 2026 05:25:46 +0000</pubDate>
       <sparkle:version>202608300123</sparkle:version>
