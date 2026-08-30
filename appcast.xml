@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.11</title>
+      <pubDate>Sun, 30 Aug 2026 06:07:16 +0000</pubDate>
+      <sparkle:version>202608300205</sparkle:version>
+      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Traffic finally has a heading and readable referrers; Reports charts now say which event is which and stop drawing empty charts. Tabs are underlined and the sidebar shows the workspace you are in.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.11/BelongOS-1.0.11.dmg" length="3342755" type="application/octet-stream" sparkle:edSignature="aIn6odClkZQ+sQCCrEvKd43c0RnLpToQK93blj/+rwn8Ks/YcJ3rNrb4NW/vtZ1/JFseqLM9E6fsvSxlQTWaAA==" />
+    </item>
+    <item>
       <title>1.0.10</title>
       <pubDate>Sun, 30 Aug 2026 05:51:53 +0000</pubDate>
       <sparkle:version>202608300149</sparkle:version>
