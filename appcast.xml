@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.0.8</title>
+      <pubDate>Sun, 30 Aug 2026 05:25:46 +0000</pubDate>
+      <sparkle:version>202608300123</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Typing just your workspace name now resolves straight through the registry, and the hint no longer points at an address that does not exist.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.0.8/BelongOS-1.0.8.dmg" length="3282783" type="application/octet-stream" sparkle:edSignature="tZeLnmOzaClNvIOjSaj0AIHAMy8idXEeIJutYKpCS3uibJjNxmeasRJSa/5VCCISntIvHXulQKaxSYxIhuehAw==" />
+    </item>
+    <item>
       <title>1.0.7</title>
       <pubDate>Sun, 30 Aug 2026 04:44:21 +0000</pubDate>
       <sparkle:version>202608300042</sparkle:version>
