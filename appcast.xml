@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.1.0</title>
+      <pubDate>Sun, 30 Aug 2026 15:01:15 +0000</pubDate>
+      <sparkle:version>202608301059</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Clients: record who a job is for. Itemised income, your own ticket names, collision detection, and the iPhone app caught up with the Mac.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.1.0/BelongOS-1.1.0.dmg" length="5898772" type="application/octet-stream" sparkle:edSignature="I+PziApq1QLenDl9bMKorUeP6x3aDQh7K7RJMc+b84BYKGX/4mQA55VPuIqvd+EE8g7lXJdZyAv0wUOUwzpCDg==" />
+    </item>
+    <item>
       <title>1.0.12</title>
       <pubDate>Sun, 30 Aug 2026 09:28:56 +0000</pubDate>
       <sparkle:version>202608300527</sparkle:version>
