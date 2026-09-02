@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.2.0</title>
+      <pubDate>Wed, 02 Sep 2026 22:02:04 +0000</pubDate>
+      <sparkle:version>202609021759</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Every page of the CRM is now a native Mac screen, tasks get a time grid, and record lists can be sorted, grouped and filtered.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.2.0/BelongOS-1.2.0.dmg" length="8309985" type="application/octet-stream" sparkle:edSignature="OzeeYDUWV8jE2onxImblkB+3/Inlx8H7iblrxAuKplwb+qaV8TrAQWETltQUC2q+GOKs+aiT1ZKdXg9XBiJzAA==" />
+    </item>
+    <item>
       <title>1.1.0</title>
       <pubDate>Sun, 30 Aug 2026 15:01:15 +0000</pubDate>
       <sparkle:version>202608301059</sparkle:version>
