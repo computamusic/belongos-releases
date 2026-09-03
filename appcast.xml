@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.3.0</title>
+      <pubDate>Thu, 03 Sep 2026 23:34:39 +0000</pubDate>
+      <sparkle:version>202609031932</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Share to BelongOS from Voice Memos, Finder, Notes and Safari. Drop a recording on the window, Import Recording… (⇧⌘I), or Open With BelongOS — all transcribed on your Mac and filed with the audio kept. Live transcript while you record, in paragraphs. Before we wrap: the assistant's questions, open loops and ideas, with the records you named beside the words — and it can ask on its own toward the end. Recap PDFs download to Downloads or share to Mail and Messages; recordings play back in Sessions. The Room no longer scrolls in on every screen. Demo mode can no longer wipe your workspaces.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.3.0/BelongOS-1.3.0.dmg" length="8589719" type="application/octet-stream" sparkle:edSignature="GiTysw8Nd8FCwwd3UPvDw6lAtPxUqUnTPYK8oIeGb51Hpi8CJbh6d4o9DM8yQPMaz1ZkxnAzNkPudNFu9DSUAQ==" />
+    </item>
+    <item>
       <title>1.2.0</title>
       <pubDate>Wed, 02 Sep 2026 22:02:04 +0000</pubDate>
       <sparkle:version>202609021759</sparkle:version>
