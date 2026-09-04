@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.5.0</title>
+      <pubDate>Fri, 04 Sep 2026 04:03:26 +0000</pubDate>
+      <sparkle:version>202609040001</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Attach a file in The Room — a PDF, a photo, a CSV — and the assistant reads it; a list of people becomes one card to approve, written in full when you do. Facilitators: the people who lead your sessions, under Partners. Session rows line up; a crash when filing a shared recording is fixed.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.5.0/BelongOS-1.5.0.dmg" length="8688779" type="application/octet-stream" sparkle:edSignature="vNNyL5ja8F4ZJrWx9Ch+J5ExIXGtMuq+UH+Wg+4I31g9zakRIHhTdoe5KKzN9LBfKBMVkgB9fL1wtu2ouu+ECw==" />
+    </item>
+    <item>
       <title>1.4.0</title>
       <pubDate>Fri, 04 Sep 2026 02:24:39 +0000</pubDate>
       <sparkle:version>202609032222</sparkle:version>
