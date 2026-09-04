@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.4.0</title>
+      <pubDate>Fri, 04 Sep 2026 02:24:39 +0000</pubDate>
+      <sparkle:version>202609032222</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Facilitators: the people who lead your sessions — instructors, guides, practitioners, speakers — under Partners, with what they lead, what they charge, and whether you'd book them again. Shared recordings that couldn't be filed are now a row in Sessions with a File now button, and a crash when filing one is fixed. Session item rows line up and stay clear of the tab bar.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.4.0/BelongOS-1.4.0.dmg" length="8654336" type="application/octet-stream" sparkle:edSignature="XmmDowsZauIrnhFHGj/yVnGUWW6z83Laxht5rwERfta6xOofpvoCybHIxvfQlCzePWMEpqjw6BeOArd3mimyBA==" />
+    </item>
+    <item>
       <title>1.3.1</title>
       <pubDate>Thu, 03 Sep 2026 23:40:52 +0000</pubDate>
       <sparkle:version>202609031938</sparkle:version>
