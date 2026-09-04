@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.5.1</title>
+      <pubDate>Fri, 04 Sep 2026 04:46:29 +0000</pubDate>
+      <sparkle:version>202609040044</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Attaching a file in The Room that can't get through now says so and lets you retry, instead of pretending to save it for later. Uploads get the time a big file needs.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.5.1/BelongOS-1.5.1.dmg" length="8693226" type="application/octet-stream" sparkle:edSignature="YMxsw/mqa+d7zKqKPX+EvpYeQUc/NQ1/ssBWvEH+kYP6kn4gEGH2GHW2eHZHOzbaFld6K6TzSS6GxsTbMmroAw==" />
+    </item>
+    <item>
       <title>1.5.0</title>
       <pubDate>Fri, 04 Sep 2026 04:03:26 +0000</pubDate>
       <sparkle:version>202609040001</sparkle:version>
