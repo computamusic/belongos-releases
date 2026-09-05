@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.6.0</title>
+      <pubDate>Sat, 05 Sep 2026 03:52:36 +0000</pubDate>
+      <sparkle:version>202609042350</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Records brought to 2026: card lists with monograms, grouped detail cards, tabs on the header. Batch review sheet — open every row of an import, fix or remove any, approve from inside. Session review: each item its own card, people get Add as…, open questions can be answered, asked in the room, or made a task, with Franny's draft answers up front and answers filed on the record. Progress card for long imports.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.6.0/BelongOS-1.6.0.dmg" length="8833411" type="application/octet-stream" sparkle:edSignature="MWmZ0n+mZ7rmHtje6fxZ1YT5oGJYCGz6m545bAkPf78qjcaeq4p2b4P3TtgZqA2kl4rRCXfASHUzRHPSSIuABg==" />
+    </item>
+    <item>
       <title>1.5.1</title>
       <pubDate>Fri, 04 Sep 2026 04:46:29 +0000</pubDate>
       <sparkle:version>202609040044</sparkle:version>
