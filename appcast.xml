@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.7.0</title>
+      <pubDate>Sat, 05 Sep 2026 12:36:12 +0000</pubDate>
+      <sparkle:version>202609050833</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>The onboarding studio, on the Mac: write onboardings in a Studio window, run one in person on your Mac with Touch ID to leave, deliver by QR or AirDrop, templates and shared sections with a review queue, a media library with Continuity Camera, draft from dictated notes, Spotlight and Shortcuts, PDF export.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.7.0/BelongOS-1.7.0.dmg" length="10767726" type="application/octet-stream" sparkle:edSignature="E9Lj2Gn33luJmnrKfPkPUmI10jsyvVPVSlaTTBabEp9x2mhmLnskaqYU+vzTP8VgHUdiUjhkxhchtWudEzaqCA==" />
+    </item>
+    <item>
       <title>1.6.2</title>
       <pubDate>Sat, 05 Sep 2026 05:52:21 +0000</pubDate>
       <sparkle:version>202609050150</sparkle:version>
