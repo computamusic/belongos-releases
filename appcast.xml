@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.6.2</title>
+      <pubDate>Sat, 05 Sep 2026 05:52:21 +0000</pubDate>
+      <sparkle:version>202609050150</sparkle:version>
+      <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>The sidebar and the Events cockpit brought to the new look: grouped rail with icon tiles and a tree for a section's pages, Events as date-leaf cards, the cockpit's fields as wells, and every list's selection drawn cleanly.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.6.2/BelongOS-1.6.2.dmg" length="8889785" type="application/octet-stream" sparkle:edSignature="y49WNejITgwK0GbaEbyc/4dtsaYz38xKpCs3B1D37PDLmuRPFqsVRcWUMH57mKRl0caj+0REiDSUXFuwbns4Dg==" />
+    </item>
+    <item>
       <title>1.6.1</title>
       <pubDate>Sat, 05 Sep 2026 04:13:25 +0000</pubDate>
       <sparkle:version>202609050011</sparkle:version>
