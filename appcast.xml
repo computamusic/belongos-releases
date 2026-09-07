@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.8.0</title>
+      <pubDate>Mon, 07 Sep 2026 10:40:30 +0000</pubDate>
+      <sparkle:version>202609070637</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>Metrics has a new home on the Mac: a graph of every number you track, how each one is computed, and where it shows. Wire numbers together with formulas, set a goal on any metric, and see each event's tracked numbers against their goals. Franny can now read, preview and propose metrics, log values and set goals from the Room.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.8.0/BelongOS-1.8.0.dmg" length="11644698" type="application/octet-stream" sparkle:edSignature="wKLxwlcCg0qTRa11dTAcAXWR60kIHYTpy9h42eIqU5BNhA+WBauXkuPzskuplvCYVo3z1daWlfHjK/Rm929oBg==" />
+    </item>
+    <item>
       <title>1.7.1</title>
       <pubDate>Mon, 07 Sep 2026 07:05:31 +0000</pubDate>
       <sparkle:version>202609070303</sparkle:version>
