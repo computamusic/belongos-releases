@@ -6,6 +6,15 @@
     <description>Updates for the BelongOS Mac app.</description>
     <language>en</language>
     <item>
+      <title>1.7.1</title>
+      <pubDate>Mon, 07 Sep 2026 07:05:31 +0000</pubDate>
+      <sparkle:version>202609070303</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>When Franny renames a facilitator or writes any record, the app now refreshes on its own and the Room shows what she changed. No relaunch needed.</description>
+      <enclosure url="https://github.com/computamusic/belongos-releases/releases/download/v1.7.1/BelongOS-1.7.1.dmg" length="10853306" type="application/octet-stream" sparkle:edSignature="UOhn3MA/DMsWxUG+H3GoNhlexLJX0CjEYDQzYDb3G6h/yMVMVNOCxzp7EbbZr2knjve9Y4eB9Dl79tM5kOoFDA==" />
+    </item>
+    <item>
       <title>1.7.0</title>
       <pubDate>Sat, 05 Sep 2026 12:36:12 +0000</pubDate>
       <sparkle:version>202609050833</sparkle:version>
